@@ -7,7 +7,7 @@ gem 'rake'
 gem 'thin'
 gem 'shotgun'
 gem 'pry'
-
+gem 'sinatra-activerecord'
 group :test do
   gem 'rspec'
   gem 'rack-test'
